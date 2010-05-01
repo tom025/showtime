@@ -1,0 +1,438 @@
+# Logfile created on Fri Apr 30 21:53:02 +0100 2010  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:40:27', NULL, NULL, '2010-04-30 21:40:27')[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:40:27', NULL, NULL, '2010-04-30 21:40:27')[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:42:44', NULL, NULL, '2010-04-30 21:42:44')[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:42:44', NULL, NULL, '2010-04-30 21:42:44')[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:43:42', NULL, NULL, '2010-04-30 21:43:42')[0m
+  [4;35;1mMovie Create (0.6ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:43:42', NULL, NULL, '2010-04-30 21:43:42')[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:45:24', NULL, NULL, '2010-04-30 21:45:24')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:45:24', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.2ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:45:24', NULL, NULL, '2010-04-30 21:45:24')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:45:24', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:48:00', NULL, NULL, '2010-04-30 21:48:00')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:48:00', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:48:00', NULL, NULL, '2010-04-30 21:48:00')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:48:00', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:50:43', NULL, NULL, '2010-04-30 21:50:43')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:50:43', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:50:43', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:50:43', NULL, NULL, '2010-04-30 21:50:43')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:50:43', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:50:43', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:51:32', NULL, NULL, '2010-04-30 21:51:32')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:51:32', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:51:32', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:51:32', NULL, NULL, '2010-04-30 21:51:32')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:51:32', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:51:32', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:55:25', NULL, NULL, '2010-04-30 21:55:25')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:25', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:25', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:55:30', NULL, NULL, '2010-04-30 21:55:30')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:30', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:30', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 21:55:30', NULL, NULL, '2010-04-30 21:55:30')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:30', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 21:55:30', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:02:48', NULL, NULL, '2010-04-30 22:02:48')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:02:48', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:02:48', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:02:48', NULL, NULL, '2010-04-30 22:02:48')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:02:48', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:02:48', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 22:20:16', '2010-04-30 22:20:16')[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 22:25:51', '2010-04-30 22:25:51')[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 22:42:59', '2010-04-30 22:42:59')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-30 23:43:00) [GET]
+  [4;35;1mMovie Create (0.3ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:43:00', NULL, NULL, '2010-04-30 22:43:00')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:43:00', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:43:00', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.2ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:43:00', NULL, NULL, '2010-04-30 22:43:00')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:43:00', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:43:00', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.3ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 22:52:58', '2010-04-30 22:52:58')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-30 23:52:58) [GET]
+  [4;35;1mMovie Create (0.3ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:52:58', NULL, NULL, '2010-04-30 22:52:58')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:52:58', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:52:58', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-04-30 22:52:58', NULL, NULL, '2010-04-30 22:52:58')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-04-30 22:52:58', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-04-30 22:52:58', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 22:57:16', '2010-04-30 22:57:16')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-30 23:57:17) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:11:42', '2010-04-30 23:11:42')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:11:42) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:24:10', '2010-04-30 23:24:10')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:24:10) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:24:37', '2010-04-30 23:24:37')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:24:37) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:24:41', '2010-04-30 23:24:41')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:24:41) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:24:41) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:34:21', '2010-04-30 23:34:21')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:34:21) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:34:21) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:34:26', '2010-04-30 23:34:26')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:34:26) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:34:26) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:34:31', '2010-04-30 23:34:31')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:34:31) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:34:31) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:34:47', '2010-04-30 23:34:47')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:34:47) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:34:47) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:34:53', '2010-04-30 23:34:53')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:34:53) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:34:53) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:35:01', '2010-04-30 23:35:01')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:35:01) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:35:01) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:35:06', '2010-04-30 23:35:06')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:35:06) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:35:06) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:35:11', '2010-04-30 23:35:11')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:35:11) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:35:11) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:36:38', '2010-04-30 23:36:38')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:36:38) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:36:38) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-04-30 23:50:43', '2010-04-30 23:50:43')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 00:50:43) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-01 00:50:43) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 10:19:09', '2010-05-01 10:19:09')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 11:19:09) [GET]
+Rendering movies/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 11:19:09) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 11:19:09) [GET]
+  [4;35;1mMovie Create (0.3ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 10:19:09', NULL, NULL, '2010-05-01 10:19:09')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 10:19:09', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 10:19:09', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 10:19:09', NULL, NULL, '2010-05-01 10:19:09')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 10:19:09', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 10:19:09', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 10:35:38', '2010-05-01 10:35:38')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 11:35:39) [GET]
+Rendering movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 11:35:39) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 11:35:39) [GET]
+  [4;36;1mGenre Create (0.3ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 10:37:37', '2010-05-01 10:37:37')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 11:37:37) [GET]
+Rendering movies/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 11:37:37) [GET]
+Rendering movies/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/movies/new]
+  [4;35;1mMovie Create (0.3ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 10:37:37', NULL, NULL, '2010-05-01 10:37:37')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 10:37:37', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 10:37:37', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 10:37:37', NULL, NULL, '2010-05-01 10:37:37')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 10:37:37', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 10:37:37', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.3ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 10:38:52', '2010-05-01 10:38:52')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 11:38:52) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 11:38:52) [GET]
+Rendering movies/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/movies/new]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 10:38:55', '2010-05-01 10:38:55')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 11:38:55) [GET]
+Rendering movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 11:38:55) [GET]
+Rendering movies/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/movies/new]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 11:16:17', '2010-05-01 11:16:17')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 12:16:17) [GET]
+Rendering movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 12:16:17) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 12:16:17) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 11:16:20', '2010-05-01 11:16:20')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 12:16:20) [GET]
+Rendering movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 12:16:20) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 12:16:20) [GET]
+  [4;36;1mGenre Create (17.0ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 15:55:14', '2010-05-01 15:55:14')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 16:55:15) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 17) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 16:55:15) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 16:55:15) [GET]
+  [4;35;1mMovie Create (0.2ms)[0m   [0mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 15:55:15', NULL, NULL, '2010-05-01 15:55:15')[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 15:55:15', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 15:55:15', "showtime_time" = '2000-01-01 14:15:00' WHERE "id" = 1[0m
+  [4;36;1mMovie Create (0.3ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-01 15:55:15', NULL, NULL, '2010-05-01 15:55:15')[0m
+  [4;35;1mMovie Update (0.1ms)[0m   [0mUPDATE "movies" SET "updated_at" = '2010-05-01 15:55:15', "showtime_date" = '2007-10-10' WHERE "id" = 1[0m
+  [4;36;1mMovie Update (0.1ms)[0m   [0;1mUPDATE "movies" SET "updated_at" = '2010-05-01 15:55:15', "showtime_time" = '2000-01-01 14:00:00' WHERE "id" = 1[0m
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 15:55:19', '2010-05-01 15:55:19')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 16:55:19) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 16:55:19) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 16:55:19) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 16:06:23', '2010-05-01 16:06:23')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 17:06:23) [GET]
+Rendering movies/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 17:06:23) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 17:06:23) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 16:26:44', '2010-05-01 16:26:44')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 17:26:44) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 17:26:44) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 17:26:44) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 16:26:48', '2010-05-01 16:26:48')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 17:26:48) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 17:26:48) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 17:26:48) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 16:30:00', '2010-05-01 16:30:00')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 17:30:00) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 17:30:00) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 17:30:00) [GET]
+  [4;36;1mGenre Create (0.3ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 17:20:26', '2010-05-01 17:20:26')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 18:20:26) [GET]
+Rendering movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 18:20:26) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 18:20:26) [GET]
+  [4;36;1mGenre Create (0.3ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 17:32:04', '2010-05-01 17:32:04')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 18:32:04) [GET]
+Rendering movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 18:32:04) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 18:32:04) [GET]
+  [4;36;1mGenre Create (88.2ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 17:32:07', '2010-05-01 17:32:07')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 18:32:07) [GET]
+Rendering movies/index
+Completed in 4ms (View: 3, DB: 88) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 18:32:07) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 18:32:07) [GET]
+  [4;36;1mGenre Create (0.4ms)[0m   [0;1mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('Comedy', '2010-05-01 17:45:36', '2010-05-01 17:45:36')[0m
+REQUESTING PAGE: GET /movies with {} and HTTP headers {}
+
+
+Processing MoviesController#index (for 127.0.0.1 at 2010-05-01 18:45:36) [GET]
+Rendering movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://www.example.com/movies]
+REQUESTING PAGE: GET /movies/new with {} and HTTP headers {"HTTP_REFERER"=>"/movies"}
+
+
+Processing MoviesController#new (for 127.0.0.1 at 2010-05-01 18:45:36) [GET]
+Rendering movies/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-05-01 18:45:36) [GET]

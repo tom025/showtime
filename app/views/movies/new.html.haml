@@ -1,0 +1,10 @@
+%h1 Create a Movie
+
+- form_for @movie do |f|
+  .field_container
+    = f.label :title, "Title"
+    = f.text_field :title
+  .field_container
+    = f.label :release_year, "Release Year"
+    = f.select :release_year, @years, {:include_blank => true}
+  = f.submit "Save"
