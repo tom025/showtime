@@ -6,9 +6,9 @@ describe "movies/new.html.haml" do
     assigns[:movie] = mock_model(Movie).as_new_record.as_null_object
     assigns[:years] = [1980] 
     assigns[:genres] = [
-      [1, "Action"],
-      [2, "Comedy"],
-      [3,  "Drama"],
+      ["Action", 1],
+      ["Comedy", 2],
+      ["Drama",  3]
     ]
   end
 
@@ -63,11 +63,22 @@ describe "movies/new.html.haml" do
   end
 
   it "renders a selectbox for the genre" do
+    assigns[:movie].stub(:genre).and_return(2)
     render
     response.should have_selector("label",
-      :for => "movie_release_year"
+      :for => "movie_genre",
+      :content => "Genre"
     )
 
     response.should have_selector("select",
-      
+      :id => "movie_genre",
+      :name => "movie[genre]"
+    )
+
+    response.should have_selector("option",
+      :value => '2',
+      :selected => "selected",
+      :content => "Comedy"
+    )
+  end
 end

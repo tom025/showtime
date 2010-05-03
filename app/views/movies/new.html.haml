@@ -7,4 +7,7 @@
   .field_container
     = f.label :release_year, "Release Year"
     = f.select :release_year, @years, {:include_blank => true}
+  .field_container
+    = f.label :genre, "Genre"
+    = f.select :genre, @genres, {:include_blank => true}
   = f.submit "Save"

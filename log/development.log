@@ -216,3 +216,4 @@ ActionView::TemplateError (Called id for nil, which would mistakenly be 4 -- if 
 Rendered rescues/_trace (37.2ms)
 Rendered rescues/_request_and_response (0.3ms)
 Rendering rescues/layout (internal_server_error)
+  [4;36;1mMovie Create (34.0ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-02 17:48:14', NULL, NULL, '2010-05-02 17:48:14')[0m

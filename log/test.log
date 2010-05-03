@@ -165,3 +165,344 @@ Rendering movies/new.html.haml
 Rendering movies/new.html.haml
 Rendering movies/new.html.haml
 Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+  [4;36;1mMovie Create (0.4ms)[0m   [0;1mINSERT INTO "movies" ("created_at", "showtime_time", "showtime_date", "updated_at") VALUES('2010-05-02 09:53:11', '2010-05-02 10:53:11', '2010-05-02', '2010-05-02 09:53:11')[0m
+  [4;35;1mGenre Create (0.3ms)[0m   [0mINSERT INTO "genres" ("name", "created_at", "updated_at") VALUES('value for name', '2010-05-02 09:53:11', '2010-05-02 09:53:11')[0m
+Rendering movies/index.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+Rendering movies/new.html.haml
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 12:33:33) [POST]
+  Parameters: {"message"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+Rendering movies/create
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:01:44) [POST]
+  Parameters: {"message"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+Rendering movies/create
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/movies/create?message%5Bgenre%5D=2&message%5Brelease_year%5D=1980&message%5Btitle%5D=Caddyshack]
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:02:43) [POST]
+  Parameters: {"message"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:02:49) [POST]
+  Parameters: {"message"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:05:55) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+Rendering movies/create
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create?movie%5Bgenre%5D=2&movie%5Brelease_year%5D=1980&movie%5Btitle%5D=Caddyshack]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:10:29) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+Rendering movies/create
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create?movie%5Bgenre%5D=2&movie%5Brelease_year%5D=1980&movie%5Btitle%5D=Caddyshack]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:10:29) [POST]
+Rendering movies/create
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:11:15) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:11:15) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:11:20) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:11:20) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:18) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:18) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:21) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:21) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:23) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:34:23) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:35:08) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:35:08) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:35:13) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:35:13) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:48:17) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:48:17) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:48:23) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:48:23) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:50:23) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:50:23) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:50:29) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:50:29) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:51:04) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:51:04) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:52:41) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:52:41) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:52:47) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:52:47) [POST]
+Rendering movies/create
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:53:43) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:53:43) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:54:09) [POST]
+Rendering movies/create
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:54:30) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:54:30) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:54:51) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:55:40) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:55:40) [POST]
+Rendering movies/create
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:56:26) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:56:26) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:57:11) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:57:11) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:57:15) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 18:57:15) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:01:17) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:01:17) [POST]
+Rendering movies/create
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:03:20) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:03:20) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:07:15) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:07:15) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:08:00) [POST]
+  Parameters: {"movie"=>{"release_year"=>1980, "title"=>"Caddyshack", "genre"=>2}}
+Rendering movies/create
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create?movie%5Bgenre%5D=2&movie%5Brelease_year%5D=1980&movie%5Btitle%5D=Caddyshack]
+
+
+Processing MoviesController#create (for 0.0.0.0 at 2010-05-02 19:08:00) [POST]
+Rendering movies/create
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/movies/create]
